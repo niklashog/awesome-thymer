@@ -41,6 +41,7 @@ App plugins extend the entire Thymer application with global features.
 - [Word Count](https://github.com/gitdaveuk/Thymer-Word-Count-Plugin) - Displays a word count for the current page
 - [Bulk Move Notes](https://github.com/RobbK17/thymer-bulkmove) - Bulk move notes from one collection to another
 - [Workspace Statistics](https://github.com/RobbK17/thymer-statistics) - Comprehensive statistics and analytics for your Thymer workspace
+- [Backreferences](https://github.com/harpreetchima/thymer-backreferences) - Thymer backreferences footer plugin
 
 #### Dev Examples
 - [Broadcast Demo](https://github.com/thymerapp/thymer-plugin-sdk/tree/main/examples/app-plugins/broadcast) - Real-time messaging between users
